@@ -1,2 +1,0 @@
-print("a")
-print("b")
